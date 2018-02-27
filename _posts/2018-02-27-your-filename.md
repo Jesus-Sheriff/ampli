@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 <amp-facebook width="552" height="310"
     layout="responsive"
