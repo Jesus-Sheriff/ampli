@@ -11,7 +11,7 @@ email: your-email@domain.com
 description: >
   Fotógrafo en Granada
 logo: "/assets/images/logo.jpg"
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/amplify" # the subpath of your site, e.g. /blog
 url: "https://jesus-sheriff.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
