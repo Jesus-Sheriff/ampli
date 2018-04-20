@@ -1,0 +1,9 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: textarea
+- type: text
+  name: dd
+  label: dd
+  description: esto no se lo q es
