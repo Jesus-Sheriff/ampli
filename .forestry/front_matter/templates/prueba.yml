@@ -1,11 +1,12 @@
 ---
-pages:
-- _posts/2018-04-20-mi-titulo.md
+label: prueba
 hide_body: false
-is_partial: false
 fields:
 - type: textarea
 - type: text
   name: dd
   label: dd
   description: esto no se lo q es
+pages:
+- _posts/prueba.md
+- _posts/2018-04-20-mi-titulo.md
